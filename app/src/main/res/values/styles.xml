@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyButtonStyle">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#F6F6F8</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/shape_button</item>
+    </style>
+
+</resources>
